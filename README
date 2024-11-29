@@ -1,6 +1,8 @@
 PuTTY source code README
 ========================
 
+Copied from https://git.tartarus.org/simon/putty.git
+
 This is the README for the source code of PuTTY, a free Windows and
 Unix Telnet and SSH client.
 
